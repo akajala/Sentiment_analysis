@@ -8,17 +8,17 @@ model will have to determine the class (neutral, positive, negative, Can’t tel
 (test data that were not used to build the model) with maximum accuracy.
 
 ### Data Dictionary
-ID: tweetID
+ID: tweetID,
 
-Tweet: Tweet by user
+Tweet: Tweet by user,
 
-Sentiment: tone of user
+Sentiment: tone of user,
 
-Negative = 0
+Negative = 0,
 
-Neutral = 1
+Neutral = 1,
 
-Positive = 2
+Positive = 2,
 
 Can’t tell = 3
 
