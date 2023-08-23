@@ -9,11 +9,17 @@ model will have to determine the class (neutral, positive, negative, Can’t tel
 
 ### Data Dictionary
 ID: tweetID
+
 Tweet: Tweet by user
+
 Sentiment: tone of user
+
 Negative = 0
+
 Neutral = 1
+
 Positive = 2
+
 Can’t tell = 3
 
 ### Perform Sentiment Analysis using knowledge of NLP.
